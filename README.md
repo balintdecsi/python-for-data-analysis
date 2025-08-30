@@ -24,7 +24,7 @@ It is difficult to interpret the classes by themselves without reading and under
 
 ## Course content
 
-| Class    | Main points & learning outcomes |
+| Class &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | Main points & learning outcomes |
 | -------- | ----------------- |
 | [Class 0](class-00-setting-up-your-data-science-environment) | How to setup the environment; Python, Jupyter notebooks, virtual environments |
 | [Class 1](class-01-coding-basics) | coding principles, variables, basis operations |
