@@ -28,7 +28,7 @@ It is difficult to interpret the classes by themselves without reading and under
 | -------- | ----------------- |
 | [Class 0](class-00-setting-up-your-data-science-environment) | How to setup the environment; Python, Jupyter notebooks, virtual environments |
 | [Class 1](class-01-coding-basics) | coding principles, variables, basis operations |
-| [CLass 2](class-02-io-and-utilities) | files & file system, time-related variables, error handling |
+| [Class 2](class-02-io-and-utilities) | files & file system, time-related variables, error handling |
 | [Class 3](class-03-udfs-classes-numpy) | user-defined functions, numpy, classes |
 | [ Class 4](class-04-pandas) | Pandas dataframes |
 | [Class 5](class-05-plotting) | charts |
